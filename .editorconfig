@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0055: Formatierung beheben
+dotnet_diagnostic.IDE0055.severity = none
+
+# IDE0040: Zugriffsmodifizierer hinzufügen
+dotnet_style_require_accessibility_modifiers = always

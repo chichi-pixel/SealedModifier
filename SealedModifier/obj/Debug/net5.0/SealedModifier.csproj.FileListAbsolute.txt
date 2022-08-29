@@ -1,0 +1,16 @@
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\bin\Debug\net5.0\SealedModifier.exe
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\bin\Debug\net5.0\SealedModifier.deps.json
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\bin\Debug\net5.0\SealedModifier.runtimeconfig.json
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\bin\Debug\net5.0\SealedModifier.runtimeconfig.dev.json
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\bin\Debug\net5.0\SealedModifier.dll
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\bin\Debug\net5.0\ref\SealedModifier.dll
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\bin\Debug\net5.0\SealedModifier.pdb
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\obj\Debug\net5.0\SealedModifier.csproj.AssemblyReference.cache
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\obj\Debug\net5.0\SealedModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\obj\Debug\net5.0\SealedModifier.AssemblyInfoInputs.cache
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\obj\Debug\net5.0\SealedModifier.AssemblyInfo.cs
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\obj\Debug\net5.0\SealedModifier.csproj.CoreCompileInputs.cache
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\obj\Debug\net5.0\SealedModifier.dll
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\obj\Debug\net5.0\ref\SealedModifier.dll
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\obj\Debug\net5.0\SealedModifier.pdb
+C:\Users\hatic\source\repos\SealedModifier\SealedModifier\obj\Debug\net5.0\SealedModifier.genruntimeconfig.cache
